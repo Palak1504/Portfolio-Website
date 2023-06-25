@@ -1,0 +1,30 @@
+.project__container{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-bottom: 5rem;
+}
+.project__details{
+    background: var(--color-bg-variant);
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    border: 1px solid transparent;
+
+}
+.project__details:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+.project__content{
+    display:grid;
+}
+.project__name{
+    display: flex;
+}
+.project__info{
+    margin-bottom: 2.5rem;
+}
+.dot{
+    color:var(--color-primary);
+    font-size: 3rem;
+}
