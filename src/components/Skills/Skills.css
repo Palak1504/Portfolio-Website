@@ -51,11 +51,13 @@
  }
  /* ***********MEDIA QUERIES(Small Devices)************ */
  @media screen  and (max-width:600px){
-    .skills__container{
+       .skills_container{
         gap: 1rem;
-    }
-    .skills__container>div{
+        display: flex;
+        flex-direction: column;
+       }
+       .skills_container>div{
         width: 100%;
-        padding: 2rem 1rem;
-    }
+        padding:2rem 1rem;
+       }
  }
