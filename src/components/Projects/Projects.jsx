@@ -10,10 +10,10 @@ const Projects = () => {
          <div className='project__content'>
          <div className='project__name'>
          <BsDot className='dot'/>
-          <h2>TO DO LIST</h2>
+          <h2>Movie Lane</h2>
          </div>
          <div className='project__info'>
-         <h3>This website helps you keep the record of work which you want to complete.</h3>
+         <h3>This website helps the user to search the movie according to their choices.</h3>
           <h4>Skills used : HTML| CSS | React.js</h4>
          </div>
          </div>
