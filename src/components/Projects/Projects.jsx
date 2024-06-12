@@ -20,11 +20,11 @@ const Projects = () => {
           <div className='project__content'>
           <div className='project__name'>
           <BsDot className='dot'/>
-          <h2>PORTFOLIO WEBSITE</h2>
+          <h2>Gold's Gym</h2>
           </div>
           <div className='project__info'>
-          <h3>This website tells about me, my work, my skills and experiences.</h3>
-          <h4>Skills used : HTML| CSS | React.js</h4>
+          <h3>This website helps users to find the exercises according to the selected body parts.</h3>
+          <h4>Skills used :React.js|Material-Ui</h4>
           </div>
         </div>
         </div>

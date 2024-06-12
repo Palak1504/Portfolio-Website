@@ -47,6 +47,10 @@ const Experience = () => {
               <BsPatchCheckFill className='skills__details-icon'/>
               <div><h4>Object-oriented Concepts</h4></div>
             </article>
+            <article className='skills__details'>
+              <BsPatchCheckFill className='skills__details-icon'/>
+              <div><h4>SQL</h4></div>
+            </article>
         </div>
        </div>
        </div>
